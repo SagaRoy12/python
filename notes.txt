@@ -1,1 +1,2 @@
-"reload" is a module that helps us to reload the file and get the updated changes, so that we can use it again later
+1. "reload" is a module that helps us to reload the file and get the updated changes, so that we can use it again later
+2. maximum python data types are named as objects
